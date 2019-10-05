@@ -32,57 +32,50 @@ Add your name & social network links to this repository!
  - [GitHub](https://github.com/Alecyty)
 
 ### Arwin Neil Baichoo
-- [GitHub](github.com/arwinneil)
-- [Twitter](twitter.com/arwinneil)
+- [GitHub](https://www.github.com/arwinneil)
+- [Twitter](https://www.twitter.com/arwinneil)
 
 ### Tasneem Noor Mohamed
-- [GitHub](github.com/tasnoor)
-- [Twitter](twitter.com/patatasneem)
+- [GitHub](https://www.github.com/tasnoor)
+- [Twitter](https://www.twitter.com/patatasneem)
 
 ### Veekshit Jangi
-- [GitHub](github.com/varesh007)
-- [Twitter](twitter.com/varesh0071)
+- [GitHub](https://www.github.com/varesh007)
+- [Twitter](https://www.twitter.com/varesh0071)
 
 ### Nythiennzo
-- [GitHub](github.com/Nythiennzo)
-- [Twitter](twitter.com/Nythiennzo)
+- [GitHub](https://www.github.com/Nythiennzo)
+- [Twitter](https://www.twitter.com/Nythiennzo)
 
 ### Shravan Dwarka
-- [GitHub](github.com/shravanSD)
-- [Twitter](twitter.com/shravandwarka)
-- [Facebook](facebook.com/sudhveer)
-- [Instagram](instragram.com/shravandwarka)
+- [GitHub](https://www.github.com/shravanSD)
+- [Twitter](https://www.twitter.com/shravandwarka)
+- [Facebook](https://www.facebook.com/sudhveer)
+- [Instagram](https://www.instragram.com/shravandwarka)
 
 ### Taariq Noor Mohamed
-- [GitHub](github.com/TaariqNoor)
-- [Instagram](instagram.com/taariq_noor)
+- [GitHub](https://www.github.com/TaariqNoor)
+- [Instagram](https://www.instagram.com/taariq_noor)
 
 ### Cedric Poilly (cedpoilly)
-- [GitHub](github.com/cedpoilly)
-- [Twitter](twitter.com/cedpoilly)
-
-## Tatiana Eclair
-- [GitHub](github.com/TatianaRE34)
+- [GitHub](https://www.github.com/cedpoilly)
+- [Twitter](https://www.twitter.com/cedpoilly)
 
 ### Tanjana Ramsamy
-- [GitHub](github.com/tanjana013)
-
-### Anshruta D Jahal (AnshrutaOfficial)
-- [GitHub](github.com/AnshrutaOfficial)
-- [Twitter](twitter.com/anshruta_official
+- [GitHub](https://www.github.com/tanjana013)
 
 ### Beemal Ramkalawan
 - [GitHub](https://github.com/MindScaper)
 - [Facebook](https://facebook.com/Reox21)
 
 ### Lucshika Beedessy
-- [GitHub](github.com/beedessy)
+- [GitHub](https://www.github.com/beedessy)
 
 ### Hansinee
-- [GitHub](github.com/hansinee)
- [Instagram](instragram.com/hansinee__)
+- [GitHub](https://www.github.com/hansinee)
+ [Instagram](https://www.instragram.com/hansinee__)
 
 ### Rajneesh Puttyah
--[GitHub](github.com/wildchild18)
+-[GitHub](https://www.github.com/wildchild18)
 -[LinkedIn](https://www.linkedin.com/in/rajneesh-puttyah/)
 -[Twitter](https://twitter.com/ashishwildchild)
