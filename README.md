@@ -49,3 +49,7 @@ Add your name & social network links to this repository!
 
 ### Tanjana Ramsamy
 - [GitHub](github.com/tanjana013)
+
+### Zabeel Rahiman
+- [GitHub](github.com/zabeelr)
+- [Twitter](twitter.com/zabeelr)
