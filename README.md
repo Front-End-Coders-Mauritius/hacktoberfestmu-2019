@@ -86,3 +86,6 @@ Add your name & social network links to this repository!
 - [GitHub](github.com/wildchild18)
 - [LinkedIn](https://www.linkedin.com/in/rajneesh-puttyah/)
 - [Twitter](https://twitter.com/ashishwildchild)
+
+### Divesh Heeramun
+- [GitHub] (github.com/sleepinzombie)
