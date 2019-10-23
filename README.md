@@ -88,4 +88,4 @@ Add your name & social network links to this repository!
 - [Twitter](https://twitter.com/ashishwildchild)
 
 ### Divesh Heeramun
-- [GitHub] (github.com/sleepinzombie)
+- [GitHub](github.com/sleepinzombie)
